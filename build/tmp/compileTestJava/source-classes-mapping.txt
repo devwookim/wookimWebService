@@ -1,0 +1,2 @@
+com/tistory/candoit/springboot/web/HelloControllerTest.java
+ com.tistory.candoit.springboot.web.HelloControllerTest
